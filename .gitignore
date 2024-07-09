@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+.env
+dist/
+*.tgz
+coverage/
+.DS_STORE
+gatewaySdk/
