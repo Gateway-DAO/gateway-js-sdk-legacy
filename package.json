@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gateway-DAO/gateway-js-sdk.git"
+    "url": "git+https://github.com/Gateway-DAO/gateway-js-sdk-legacy.git"
   },
   "publishConfig": {
     "access": "public"
